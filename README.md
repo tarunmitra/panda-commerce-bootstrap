@@ -1,1 +1,1 @@
-# panda-commerce-bootstrap
+https://tarunmitra.github.io/panda-commerce-bootstrap/
