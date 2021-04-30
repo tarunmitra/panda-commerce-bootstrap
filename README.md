@@ -1,7 +1,7 @@
 Using Html, Css and Bootstrap <br>
-● Do responsive you can see any device
-● Products Shoes and Jackets
-● Set Customer login from
-● But This side is static
+● Do responsive you can see any device <br>
+● Products Shoes and Jackets <br>
+● Set Customer login from   <br>
+● But This side is static <br>
 
 # LIVE: https://tarunmitra.github.io/panda-commerce-bootstrap/
